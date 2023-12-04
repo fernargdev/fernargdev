@@ -13,14 +13,6 @@
   <img align="center" alt="-Sql" height="30" width="60" src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png">
   <img align="center" alt="-C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
 </div>
-    <br/><br/>
-<div> 
-  <a href="https://www.facebook.com/EdwardBritoDiaz/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/brito_edward11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edwardbrito111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Edwardb11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div>
   <br/>
   <br/>
 <div>
